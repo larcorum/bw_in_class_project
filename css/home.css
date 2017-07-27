@@ -1,0 +1,16 @@
+/* Header... */
+
+header {
+    position: relative;
+    display: inline-block;
+    height: 100px
+}
+
+h2 {
+    font: 16px;
+}
+
+h1 {
+    float: right;
+    font: 24px;
+}
